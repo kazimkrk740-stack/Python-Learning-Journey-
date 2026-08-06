@@ -17,7 +17,24 @@ This repository documents my daily Python learning, practice programs, and assig
 - ✅ Day 05 – Sets
 - ✅ Day 06 – While Loops
 - ✅ Day 07 – For Loops
+## 🚀 Project 01 – Expense Tracker
 
+A simple command-line Expense Tracker built using Python.
+
+### Features
+- ➕ Add a New Expense
+- 📋 View All Expenses
+- 💰 View Total Expenses
+- ❌ Exit the Program
+
+### Concepts Used
+- Lists
+- Dictionaries
+- While Loop
+- For Loop
+- If/Else Statements
+- User Input
+ 
 ## 📂 Repository Contents
 
 - 📘 Day-wise Python Programs
