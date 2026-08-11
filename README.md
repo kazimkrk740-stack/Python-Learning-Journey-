@@ -10,13 +10,14 @@ This repository documents my daily Python learning, practice programs, and assig
 
 ## 📚 Topics Covered
 
-- ✅ Day 01 – Introduction to Python
-- ✅ Day 02 – Variables & Data Types
-- ✅ Day 03 – Strings & String Methods
-- ✅ Day 04 – Dictionaries
-- ✅ Day 05 – Sets
-- ✅ Day 06 – While Loops
-- ✅ Day 07 – For Loops
+- ✅ Day 01 – Introduction to Python and Practice Assignment
+- ✅ Day 02 – Variables & Data Types and Practice Assignment
+- ✅ Day 03 – Strings & String Methods and Practice Assignment
+- ✅ Day 04 – Dictionaries and Practice Assignment
+- ✅ Day 05 – Sets and Practice Assignment
+- ✅ Day 06 – While Loops and Practice Assignment
+- ✅ Day 07 – For Loops and Practice Assignment
+- ✅ Day 08 – Functions and Practice Assignment
 ## 🚀 Project 01 – Expense Tracker
 
 A simple command-line Expense Tracker built using Python.
