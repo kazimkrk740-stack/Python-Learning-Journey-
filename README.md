@@ -35,7 +35,7 @@ A simple command-line Expense Tracker built using Python.
 - For Loop
 - If/Else Statements
 - User Input
- 
+
 ## 📂 Repository Contents
 
 - 📘 Day-wise Python Programs
@@ -47,5 +47,28 @@ A simple command-line Expense Tracker built using Python.
 
 To become a skilled Data Scientist by learning Python consistently, solving real-world problems, and building practical projects.
 
+## 🤖 Project 02 – Rule-Based Python Chatbot
+
+A simple rule-based chatbot built with Python.
+
+### Features
+- 👋 Personalized greeting based on the current time
+- 💬 Answers basic user questions
+- 🧠 Uses a dictionary to store chatbot responses
+- 🔄 Continuously interacts with the user using a while loop
+- 🚪 Exits when the user types "bye"
+
+### Concepts Used
+- Dictionaries
+- Functions
+- While Loop
+- For Loop
+- If/Else Statements
+- User Input
+- String Methods
+- datetime Module
+
+### Goal
+This project helped me practice Python functions, dictionaries, loops, conditional logic, and user interaction while building a simple chatbot.
 ---
 ⭐ Thank you for visiting my repository. Feel free to explore my learning journey!
